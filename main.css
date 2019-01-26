@@ -19,9 +19,15 @@ body {
     text-align: center;
 }
 
+a {
+    color: white;
+    text-decoration: underline;
+    text-decoration-style: solid
+}
+
 a:visited {
     color: white;
     text-decoration-line: underline;
     text-decoration-color: forestgreen;
-    border-bottom-style: groove;
+    text-decoration-style: wavy;
 }
