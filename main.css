@@ -22,6 +22,6 @@ body {
 a:visited {
     color: white;
     text-decoration-line: underline;
-    border-bottom-color: forestgreen;
+    text-decoration-color: forestgreen;
     border-bottom-style: groove;
 }
