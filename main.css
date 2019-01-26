@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+
 h1 {
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
@@ -31,3 +33,12 @@ a:visited {
     text-decoration-color: forestgreen;
     text-decoration-style: dotted;
 }
+
+.introblock {
+    
+}
+ 
+#introvid {align-content: center;
+/*
+margin-left: 29%;
+margin-right: 29%;}*/
