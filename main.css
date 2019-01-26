@@ -18,3 +18,10 @@ body {
     font-family: 'Open Sans', sans-serif;
     text-align: center;
 }
+
+a:visited {
+    color: white;
+    text-decoration-line: underline;
+    border-bottom-color: forestgreen;
+    border-bottom-style: groove;
+}
