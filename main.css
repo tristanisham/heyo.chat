@@ -34,11 +34,19 @@ a:visited {
     text-decoration-style: dotted;
 }
 
-.introblock {
+.introblock { padding: 2.8em;
+    background: #333;
+    margin-left: 5.6em;
+    margin-right: 3.8em;
+    margin-top: 0;
     
 }
  
 #introvid {align-content: center;
+    padding: 0;
+    margin-left: 13%;
+    margin-top: -1em;
+    padding-top: 0;
 /*
 margin-left: 29%;
 margin-right: 29%;}*/
